@@ -1,1 +1,1 @@
-# thread
+# thread et semaphore
